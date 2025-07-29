@@ -7,7 +7,7 @@ import DetailsPage from "./Pages/DetailsPage.jsx";
 
 const router = createBrowserRouter([
   {
-    path: "/home",
+    path: "",
     element: <App />, //esse será renderizado na rota raiz (root - página web)
   },
   {
