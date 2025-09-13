@@ -61,6 +61,9 @@ Um aplicativo web simples para gerenciar tarefas diárias. Permite adicionar, vi
 ```
 ├── public/
 │   └── vite.svg
+│   └── Gerenciador-de-Tarefas.png
+│   └── Gerenciador-de-Tarefas-II.png
+│   └── Gerenciador-de-Tarefas-III.png
 ├── src/
 │   ├── App.jsx
 │   ├── App.css
