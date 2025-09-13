@@ -43,8 +43,9 @@ Um aplicativo web simples para gerenciar tarefas diárias. Permite adicionar, vi
 
 ## Deploy / Demonstração
 
-- [https://gerenciador-de-tarefas-brown.vercel.app/](#)
-- ![Demonstração](public/vite.svg)
+- [https://gerenciador-de-tarefas-brown.vercel.app/]
+- [./public/Gerenciador-de-Tarefas.png]
+- [./public/Gerenciador-de-Tarefas-II.png]
 
 ## Funcionalidades
 
